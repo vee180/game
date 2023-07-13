@@ -1,6 +1,5 @@
 # Arcade Game
 
-## Project Description
 
 
 
